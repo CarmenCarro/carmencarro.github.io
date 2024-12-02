@@ -79,6 +79,9 @@ a {
     color: var(--soft-blue);
     font-weight: 600;
 }
+a:hover{
+    color: var(--white);
+}
 .title2-header {
     font-family: 'Mulish', sans-serif;
     color: var(--soft-blue);
