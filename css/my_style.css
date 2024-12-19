@@ -80,7 +80,7 @@ a {
     font-weight: 600;
 }
 a:hover{
-    color: var(--white);
+    text-decoration: underline;
 }
 .title2-header {
     font-family: 'Mulish', sans-serif;
