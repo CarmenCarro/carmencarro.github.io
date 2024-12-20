@@ -307,6 +307,13 @@ figcaption {
     background-color: var(--soft-blue);
     border-radius: 50%;
 }
+.section iframe {
+    width: 99%;
+    height: 540px;
+    border: 8px solid var(--battleship-grey);
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
 /*----------------------------------------------*/
 .points li {
     margin-bottom: 20px;
