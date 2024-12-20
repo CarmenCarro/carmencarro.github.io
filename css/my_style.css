@@ -312,6 +312,7 @@ figcaption {
     height: 540px;
     border: 8px solid var(--battleship-grey);
     border-radius: 20px;
+    margin-bottom: 16px;
 }
 /*----------------------------------------------*/
 .points li {
