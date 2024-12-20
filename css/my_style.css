@@ -286,6 +286,9 @@ h1 span.adicional {
 .p-15 {
     padding: 15px;
 }
+figure a:hover {
+    filter: grayscale(90%);
+}
 figcaption {
     font-size: 0.875rem;
     color: var(--battleship-grey);
